@@ -19,7 +19,7 @@ blurb:
 intro:
   heading: Who we are
   text: >-
-    We're Alan Franzoni and Hasti Ghabel, two graduate students from the Georgia
+    We're [Alan Franzoni](https://www.linkedin.com/in/alanfranzoni/) and Hasti Ghabel, two graduate students from the Georgia
     Institute of Technology.
 products:
   - image: img/illustrations-coffee.svg
